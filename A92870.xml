@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sedition scourg'd, or A view of that rascally &amp; venemous paper, entituled, A charge of high-treason exhibited against Oliver Cromwel, Esq; for several treasons by him committed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92870</idno>
+            <idno type="STC">Wing S2393A</idno>
+            <idno type="STC">Thomason E715_5</idno>
+            <idno type="STC">ESTC R207253</idno>
+            <idno type="EEBO-CITATION">99866318</idno>
+            <idno type="PROQUEST">99866318</idno>
+            <idno type="VID">118588</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92870)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118588)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 110:E715[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sedition scourg'd, or A view of that rascally &amp; venemous paper, entituled, A charge of high-treason exhibited against Oliver Cromwel, Esq; for several treasons by him committed.</title>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Hen. Hills, for Rich. Baddeley, within the Middle-Temple Gate,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Oct. 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver --  1599-1658 --  Early works to 1800.</term>
+               <term>Charge of high treason exhibited against Oliver Cromwell Esq.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118588:1" rendition="simple:additions"/>
+            <p>Sedition Scourg'd, OR A VIEW OF THAT Raſcally &amp; Venemous PAPER, ENTITULED, <hi>A Charge of</hi> High-Treaſon <hi>exhi<g ref="char:EOLhyphen"/>bited againſt</hi> OLIVER CROMWEL, <hi>
+                  <abbr>Eſq</abbr> for ſeveral</hi> Treaſons <hi>by him committed.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Hen. Hills,</hi> for <hi>Rich. Baddeley,</hi> within the <hi>Middle-Temple Gate,</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118588:2"/>
+            <pb n="1" facs="tcp:118588:2"/>
+            <head>Sedition Scourg'd, OR, A View of that Raſcally and Venemous Paper, Entituled, <hi>A Charge of High Treaſon, exhi<g ref="char:EOLhyphen"/>bited againſt</hi> Oliver Cromwell, <abbr>
+                  <hi>Eſq</hi>
+               </abbr> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Invention of <hi>Printing</hi> was doubtleſſe at the firſt one of the moſt laudable and profitable diſcoveries that could have been made by man. By it <hi>Letters,</hi> which had long been under the rubbidge of <hi>Barba<g ref="char:EOLhyphen"/>riſm,</hi> were reſtored to their former luſtre, and conveyed through <hi>Europe;</hi> by it the <hi>Gospel,</hi> ſullied and blemiſhed by the corruptions of <hi>Popery,</hi>
+               <pb n="2" facs="tcp:118588:3"/>(God in his wiſdom ſo ordaining) after it was a little more purely taught, became to be diſperſed, maugre <hi>Rome,</hi> and her Superſtitions; by it there is not only better communicati<g ref="char:EOLhyphen"/>on of knowledge for the <hi>preſent,</hi> but greater hopes of preſer<g ref="char:EOLhyphen"/>ving it for the <hi>future:</hi> And yet ſo unlucky hath it been, that ſince the myſtery of it grew common, and the permiſſion in a manner general, it hath been a peſtilent <hi>Midwife</hi> to theſe accurſed brats, <hi>Error</hi> in the <hi>Church,</hi> and <hi>Sedition</hi> in the State. Nor indeed if a man may dare to ſpeak it, are the Governours themſelves wholly blameleſs for ſuch inconveni<g ref="char:EOLhyphen"/>ences. For <hi>Printing</hi> being ever accounted among the <hi>Regalia</hi> of every Government, as well as <hi>Coyning,</hi> &amp;c. it ſhould be looked on with ſuch a jealous and ſtrict eye; there ſhould be ſuch a circumſpect care of prevention, and ſuch painful pur<g ref="char:EOLhyphen"/>ſuance of miſdemeanours, as would be required againſt the moſt dangerous crimes. For <hi>Libelling</hi> (which is never better aſſiſted than by this way) hath not only abroad in all ages found its ſeveral ſeverities, but, even at home, is <hi>Fellony</hi> at <hi>Common Law, Cooks Instit. part.</hi> 3. <hi>chap.</hi> 76. for it may not only ruine the reputation of a private man, but introduce tumult and combuſtion in the State it ſelf. And if the in<g ref="char:EOLhyphen"/>ward man be once diſturbed, the outward will be, and if the imagination be troubled, the hands will ſoon be at work.</p>
+            <p>But I have digreſſed in the very beginning, though I think not ſo far, but that thoſe that neglect it, may find the inconve<g ref="char:EOLhyphen"/>niences.</p>
+            <p>Amongſt the other things which have been ſpawned in this age, both to the diſhonour of our Maker, and the diſturbance of mankind, there was lately publiſhed; and (as much as lay in them) diſperſed, a piece of Paper, with this title,</p>
+            <p>
+               <hi>A Charge of High Treaſon againſt</hi> Oliver Cromwell <hi>
+                  <abbr>Eſq</abbr> for ſeveral Treaſons by him committed.</hi>
+            </p>
+            <p>A Paper ſo ſottiſhly impudent, and ſo ridiculouſly mali<g ref="char:EOLhyphen"/>cious, that were but the generality of the people in their ſen<g ref="char:EOLhyphen"/>ſes, and not mad with deſire of novelty and prepoſſeſſion, it were ſo unworthy the taking notice of, that there were no
+<pb n="3" facs="tcp:118588:3"/>greater confutation of it, than to read it. But ſince that it happens in matters of this nature, that by the privatneſs of diſperſion, and withall their aiming at great and eminent per<g ref="char:EOLhyphen"/>ſons, they are conceived to contain in themſelves ſomewhat conſiderable and of important conſequence, I thought it worth my pains to give it a peruſal, and not to let it bark without a whip at the tail. For though <hi>Bridewell,</hi> and the <hi>Pillory,</hi> may teach the <hi>Offendors,</hi> and the <hi>Fire</hi> the <hi>Papers,</hi> yet it is only <hi>Reaſon</hi> that can encounter their <hi>Folly;</hi> and ſober <hi>Debate</hi> that muſt overthrow their <hi>Madneſs.</hi>
+            </p>
+            <p>And ſince the thing talks big, and threatens an impeach<g ref="char:EOLhyphen"/>ment of <hi>High-Treaſon,</hi> we ſhall take the pains once for all to teach him what it is, and ſhew him how much he miſſes of his aim and application.</p>
+            <p>
+               <hi>Treaſon, Crimen laeſae Majeſtatis,</hi> as they ſay, or any offence, which aiming ſecretly at the <hi>lives</hi> of the <hi>Supreme Governours</hi> for the time being, or at the Government it ſelf, was in the ſeveral times made <hi>Capital,</hi> but ever varied and altered according to the variations and turns of Government. That which concerned the Generality of Government, as <hi>Coyn<g ref="char:EOLhyphen"/>ing of money, killing of a Justice upon the Bench,</hi> &amp;c. which concerns the very being of the publick peace, remaining firm, the other moveable and alterable, as for Example, by the 25. of <hi>Edw.</hi> 3. <hi>chap.</hi> 2. confirmed and quoted by many o<g ref="char:EOLhyphen"/>ther Statutes, tis <hi>Treaſon</hi> to compaſs the death of the <hi>King, Queen,</hi> or <hi>Prince;</hi> This the Act of <hi>July</hi> the ſeventeenth 1649. expreſly repeals, enacting it <hi>Treaſon</hi> to do a<g ref="char:EOLhyphen"/>ny thing againſt the <hi>form</hi> of the <hi>Commonwealth;</hi> but for <hi>Coining,</hi> &amp;c. of money, confirms it. Nor indeed does this want its reaſon, for the perſons and Governments deter<g ref="char:EOLhyphen"/>mining, and ceaſing, their protections alſo ceaſe, and conſe<g ref="char:EOLhyphen"/>quently the obedience in the Subject. For how can a man offend againſt a thing that is not in being? but for thoſe ma<g ref="char:EOLhyphen"/>terial Supporcers of Government, that is to ſay, for preſer<g ref="char:EOLhyphen"/>ving the Laws, traffique among the people, and the like, they are things ſo neceſſary and immutable, that if they once
+<pb n="4" facs="tcp:118588:4"/>change or periſh, a whole nation changes or periſhes with them, whereas for the outward form of Government, it hath its ſeveral changes and ſhapes, according to the varia<g ref="char:EOLhyphen"/>tion of times, and revolution of circumſtances.</p>
+            <p>We ſhall have occaſion to apply this in the following Diſ<g ref="char:EOLhyphen"/>courſe; to ſay only thus much for the preſent, that the <hi>Lord Generall,</hi> according to your own poſitions, hath done no<g ref="char:EOLhyphen"/>thing againſt the Act of <hi>Edw.</hi> 3. and according to the po<g ref="char:EOLhyphen"/>ſitions of Reaſon, as little againſt the Act of <hi>July</hi> 1649. for he only chang'd the <hi>Governours,</hi> but the form of the <hi>Repub<g ref="char:EOLhyphen"/>lick</hi> it ſelf is preſerv'd, and by this means eſtabliſh'd. So that here we find him not to be ſo great a <hi>Traytor,</hi> but I believe upon view of the whole, a perſon quite the contrary.</p>
+            <p>For the People whom he calls <hi>Lords,</hi> he muſt be taught, that though the people be the primary <hi>cauſe</hi> of <hi>Government,</hi> and the <hi>End</hi> thereof, and may by their conſent, or diſapprobation, either ratify or vacate any form therof, yet for the <hi>adminiſtration</hi> and <hi>execution</hi> of <hi>Government,</hi> its a thing the practice wherof is not feaſible by the people and the effects of it, if it were endeavor'd, would be <hi>monstrous</hi> beyond all imagination. For to ima<g ref="char:EOLhyphen"/>gine that all the people of this Nation, of ſo many different <hi>humours, intereſts,</hi> and <hi>parties,</hi> would conſult together as a few men, is as impoſſible as that all the letters of a Printing<g ref="char:EOLhyphen"/>houſe careleſly caſt abroad, ſhould without any other aſſiſt<g ref="char:EOLhyphen"/>ance compoſe this Book. But if the people be the <hi>end</hi> of Government, that which moſt aimes at the <hi>good</hi> of the people, comes the neereſt that end; and ſance the people in regard of the variety of humours, can neither well determine, nor con<g ref="char:EOLhyphen"/>ſent about the circumſtances of their own ſafety, he certainly doth a very laudable action, that turnes doubtful <hi>emergen<g ref="char:EOLhyphen"/>cyes,</hi> and dangerous <hi>junctures</hi> of time, into their advantage; It is as true as any thing that is ſaid, <hi>Salus Populi Suprema Lex;</hi> but to continue on the <hi>Metaphor,</hi> tis the <hi>Phyſician,</hi> that is to ſay, <hi>The Wiſe man</hi> in <hi>power,</hi> that muſt be the <hi>Judge,</hi> not the <hi>patient,</hi> that is to ſay, the <hi>Multitude,</hi> in <hi>danger.</hi> So that by priority of cauſe we find the People <hi>Lords Re<g ref="char:EOLhyphen"/>mote,</hi>
+               <pb n="5" facs="tcp:118588:4"/>and <hi>Lords intended,</hi> but ſecondarily and in effect, we find the Governours <hi>Lords effective,</hi> and <hi>executive,</hi> the <hi>Being</hi> of the one being <hi>Metaphyſical</hi> and abſtracted, the <hi>Being</hi> of the other <hi>naturall and active.</hi> So that whoever of<g ref="char:EOLhyphen"/>fends againſt the <hi>Magistrate</hi> in being, treſpaſſes againſt the <hi>People</hi> themſelves, in the perſon of their Magiſtrates, the Majeſty of the Magiſtrate being ſo join'd and allyed to the majeſty of the people, that as the <hi>Statuary</hi> did his own picture in <hi>Minerva's,</hi> in ſuch a manner, that if there were the leaſt in<g ref="char:EOLhyphen"/>jury offered to his, it would alſo blemiſh that of the Goddeſs; even ſo, whoever blemiſhes a Governour, blemiſhes alſo the people governed, Governours being the underſtanding, the diſ<g ref="char:EOLhyphen"/>courſe, and the defence of the people.</p>
+            <p>But of all men he hath certainly made a very indiſcreet choice in fixing upon this perſon whom he hath choſen, a man, that as he hath already acquired the Reputation of one of the grea<g ref="char:EOLhyphen"/>teſt <hi>Captains</hi> of his time, or, for any thing I know, that ever was, ſo doubtleſs he will ſend down to <hi>Poſterity</hi> a name as <hi>dear</hi> and <hi>venerable</hi> for the <hi>Love</hi> of his <hi>Countrey</hi> as any man of any nation. The hazards and exploits which he did in the <hi>first</hi> War are very well known, though God had not at that time lifted him up to this eminency, yet he that had ſeen him at <hi>Marſton. Moor</hi> would have ſaid our liberties were not a little obliged to him. Wonderfull was the preſence of God with him at the defeat of <hi>Hamilton;</hi> And when once our liberty was reſtored, ſince we could not defend our ſelves with<g ref="char:EOLhyphen"/>out offending, how ſoon he over ran <hi>Ireland</hi> and <hi>Scotland</hi> with his <hi>Conquests,</hi> is unneceſſary to tell here, when all <hi>Europe</hi> ſtands amazed at it. Yet even this man, that in all the Of<g ref="char:EOLhyphen"/>fices both of a <hi>Citizen</hi> and a <hi>Souldier</hi> hath given ſuch faith<g ref="char:EOLhyphen"/>ful devoirs to his Countrey, while he is covered with <hi>laurels,</hi> and makes us enjoy the real fruit of his victories, muſt have his Soul pierc'd and transfix'd through with all the venemous ugly ſlanders that the Devil can put into the mouth of a can<g ref="char:EOLhyphen"/>ker'd malice.</p>
+            <p>But general returns are like general criminations, ſuch as
+<pb n="6" facs="tcp:118588:5"/>will neither ſatisfy nor faſten. To lay open therefore the im<g ref="char:EOLhyphen"/>portunate malice of this raſcally paper, and withall the bet<g ref="char:EOLhyphen"/>ter to detect the vanity and inſufficiency of his pretences, you may take it thus, with ſome brief animadverſions, becauſe the main things he inſiſts on we have anſwered before, and for the <hi>form</hi> of it, we ſhall not much trouble our ſelves, ſince it is as eaſy, <hi>villanouſly</hi> to frame a Libel in the form of an <hi>In<g ref="char:EOLhyphen"/>dictment,</hi> as it is <hi>Atheistically,</hi> in the form of a <hi>Catechiſm.</hi> Examples of both which we have had within theſe few dayes.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="charge">
+                        <head>A Charge of High Treaſon exhibited a<g ref="char:EOLhyphen"/>gainſt <hi>Oliver Cromwell,</hi> 
+                           <abbr>Eſq</abbr> for ſeveral Treaſons by him committed.</head>
+                        <p>
+                           <hi>FOr that he the ſaid</hi> Oliver Cromwell <hi>not having the fear of God before his eyes, but being instigated by the De<g ref="char:EOLhyphen"/>vil, did Trayterouſly and Villanouſly by force of Arms, diſſolve the late Parliament of the Lords the People of</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>who they the ſaid Parliament did repreſert as the Supreme Authority of the ſaid Lords the people of</hi> England, <hi>and for that he the ſaid</hi> Oliver Cromwell <hi>being a hired Ser<g ref="char:EOLhyphen"/>vant to ſerve the Lords the people of</hi> England <hi>in the Conduct of them the ſaid Lords the people of</hi> Englands <hi>forces, againſt their enemies, of their the ſaid Peoples</hi> Liberties, Rights, <hi>and</hi> Privileges, <hi>and notwithstanding the high truſt repoſed in him, the ſaid</hi> Oliver Cromwell, <hi>ſo to do, yet the ſaid</hi> Oliver <hi>trayterously conſpired many times, before the ſaid</hi> O<g ref="char:EOLhyphen"/>liver <hi>did diſſolve the ſaid Parliament, by force of Arms wickedly and trayterouſly, thereby to render the ſaid Lords the people of</hi> England <hi>utterly uncapable for ever, to recover their</hi> Liberties, Juſt Rights, <hi>and</hi> Privileges, <hi>and did be<g ref="char:EOLhyphen"/>come Maſter of all the Strong holds, Arms, Forces, Ma<g ref="char:EOLhyphen"/>gazines, Armies, Navyes, and made, and ſtill doth
+<pb n="7" facs="tcp:118588:5"/>make no other uſe of them, but to over-awe and force the Lords the people of</hi> England <hi>aforeſaid, to an Obedience and Compliance to his the ſaid</hi> Oliver Cromwells <hi>Tyrannical will and pleaſure, contrary to the intent of the truſt repoſed in him, and contrary to all the Solemn Ingagements, and Decla<g ref="char:EOLhyphen"/>rations of him the ſaid</hi> Cromwel, <hi>which did invite the fore<g ref="char:EOLhyphen"/>ſaid Lords the people of</hi> England <hi>to a chearfull contribution of their aſſistance to the carrying on of the Warr against the Common Enemies of their</hi> Liberties, Juſt Rights, <hi>and</hi> Privi<g ref="char:EOLhyphen"/>leges: <hi>And further, that he the ſaid</hi> Oliver Cromwel, <hi>did in an unheard-of manner, ſummon and require upon great penalties, divers perſons and members of the Lords the peo<g ref="char:EOLhyphen"/>ple of</hi> England, <hi>to take upon them the Supreme Authority of this Commonwealth, and accordingly upon the fourth of</hi> July <hi>they the aforeſaid perſons ſummoned by vertue of the a<g ref="char:EOLhyphen"/>foreſaid Traytors ſummons did appear at</hi> White-Hall, <hi>in or nigh the City of</hi> Weſtminſter <hi>in the County of</hi> Middleſex, <hi>where they received an Instrument of Parliament containing theſe words,</hi> I Oliver Cromwel do appoint you (<hi>meaning the a<g ref="char:EOLhyphen"/>foreſaid perſons ſummoned by his wartant, to make their ap<g ref="char:EOLhyphen"/>pearance there, and then as aforeſaid, that is to ſay, on the</hi> 4. <hi>day of</hi> July 1653. <hi>at</hi> White Hall) to be the Supreme Authority of this Nation, and all Territories or Dominions thereunto belonging; <hi>and notwithſtanding he the ſaid</hi> Oliver <hi>in ſo doing did commit the highest of Treaſons that could be committed; for that he the ſaid</hi> Oliver <hi>did not intreat the Lords the people of</hi> England, <hi>to elect their Repreſentative, according to their undubitable rights, and that he would with their Army, ſtand by them as Servants, as in duty he and they</hi> (viz. <hi>the Army</hi>) <hi>ought to have done; the which if they had done, their late act of diſſolving the Parliament, had not been Treaſon, becauſe they</hi> (viz. <hi>the late Parliament</hi>) <hi>contrary to their trust, endeavoured to make themſelves perpetual, contrary to the Law of the Land, and the intent of the trust repoſed in them, and after the ſo many demands by Petitions of the Lords the People, for them to ſurrender
+<pb n="8" facs="tcp:118588:6"/>their power to a new Repreſentative equally choſen; now for that the ſaid</hi> Oliver Cromwel <hi>did not reſtore the people rights in</hi> Election, <hi>upon the diſſolving of the Parliament, he hath made that to be Treaſon, which otherwiſe would not have been Treaſon.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>For the diſſolution of the late Parliament, there hath been enough ſaid to an fro about it, and it hath both by the De<g ref="char:EOLhyphen"/>claration of the Army, and other pieces writ, beſides the Confeſſion of the Grand Politique Informer himſelf, and this very Pamphleteer (though conditionally) as may appear by the laſt line of this Paragraph. The neceſſity of which thus appearing, I ſhall mention no otherwiſe, but only obſerve thus much, in paſſing, that it is not the diſſolving of the late Parliament that ſticks in their ſtomacks, for that they are ſatisfyed well enough with, but they are unſatisfyed becauſe the Nation is not turn'd wild into an irregular and dangerous Liberty, and conſequently permitted either to return into new quarrels, or reduc'd under its former Tyranny. For certainly, no man would elſe, conſidering the different impreſſions that the late Civil Wartes have made upon the minds of the people, permit them to a choice of their own Governours, they being ſo divided and diſcompos'd, as for the preſent they are, and working and being unquiet as the Sea after a ſtorm.</p>
+            <p>For the General being a <hi>hired Servant to the people of this Nation,</hi> tis very true, as well as every Magiſtrate; ſince in one Relation they are <hi>Servants,</hi> in another, <hi>Maſters,</hi> Ser<g ref="char:EOLhyphen"/>vants in <hi>Intention,</hi> Maſters in <hi>Execution,</hi> ſince without Ma<g ref="char:EOLhyphen"/>ſtery they could not ſerve, and tis but the ſame thing under a different notion.</p>
+            <p>For <hi>keeping of Armes in his hands,</hi> and preventing ſuch an Extravagant Election, as the Pamphet aims at, is as much as to ſay in plain <hi>Engliſh,</hi> that he made choiſe of a very good way for the ſecurity of the people, and took care to put it in execution. For the former way being ſo dangerous, and the
+<pb n="9" facs="tcp:118588:6"/>courſe choſen, which ſince was effected, and which we repent not of, it had been madneſs to have endeavoured an end, and yet neglected the means, or to ſay better, put the ſame means into other hands for contrary ends. And therefore ſince, if the people had made uſe of that freedome, there had been lit<g ref="char:EOLhyphen"/>tle reaſon to have truſted the elected, without great conſidera<g ref="char:EOLhyphen"/>tion of their perſons and garbling, and that this was a buſineſs which could not be done but by a third power, it was rather thought fit, to ſtay, till he that can ſtop the raging of the Sea, would quiet the peoples minds, to ſelect ſome particular worthy perſons, of good life and conſcience, out of the ſeveral Counties, to that High and Supreme Truſt.</p>
+            <p>Tis alſo falſe, that <hi>they were ſummoned under great pe<g ref="char:EOLhyphen"/>nalties,</hi> when the very Summons it ſelf, I cannot tell how printed at that time, ſpeaks little more than a bare Summons, or Intimation; And for the reaſon of delivering a Parchment ſealed, there hath been ſo much ſaid of that matter, in the <hi>Grand Politique Informer better Informed, p.</hi> 10, 11. that it is needleſs to tranſcribe any thing hither.</p>
+            <p>When they were inveſted with this power, and begun to ſettle to the buſineſs, that is, advancing the <hi>Goſpel</hi> in its purity, the Reglement of the <hi>Law,</hi> ſtating the <hi>Accounts</hi> of the <hi>Nati<g ref="char:EOLhyphen"/>on,</hi> and thoſe corruptions which have infected all profeſſions; they had turned their back from the Plough, if upon a few ſeditious addreſſes, of a rabble of <hi>Apprentices,</hi> and no body knows what, they had deſerted ſo great a beneficial work, and to have ſuffered things to relapſe into their former confuſion.</p>
+            <p>Before I have done with this Paragraph, I muſt needs ad<g ref="char:EOLhyphen"/>mire the <hi>acumen</hi> of the man, who ſayes that my Lord <hi>hath made that Treaſonable, which otherwiſe would not have been Treaſon.</hi> This is a ſubtilty above <hi>Scotus</hi> himſelf, a Treaſon conditionall, <hi>ex poſt facto,</hi> whereas our Law ever adjudges Treaſon out of the matter of fact it ſelf, not by actions after the fact, and in moral things, the Act is judged good or bad according to preſent circumſtantiation, not following
+<pb n="10" facs="tcp:118588:7"/>contingencies or ſubſequent Actions. But look whither he hath brought himſelf; He grants the diſſolving of the late Par<g ref="char:EOLhyphen"/>liament not to be criminal, but only by conſequence, which conſequence is invalid, and ſo juſtifies the action, and ſo confutes all he had ſaid before.</p>
+            <p>
+               <hi>But further, he the ſaid</hi> Oliver Cromwel <hi>having not the fear of God before his eyes, and being instigated by the Devil, did contrive or cauſed to be contrived a certain book, called,</hi> A Copy of Draughts of Acts of Parliament, <hi>out of which this mock-Parliament are to take their leſſons, and out of which the late Act of Marriages was taken, and in which is the invention of unheard-of Cruel Torment aſwell for thoſe that offend or opppoſe him and his confederates in this unheard-of Tyranny, as for the Tranſgreſſors of the laws of Civil Societies.</hi>
+            </p>
+            <p n="2">
+               <hi>Par.</hi> 2. For this <hi>Book of the Laws</hi> which he talks of, he is to be acquainted, that My <hi>Lord General</hi> had not the leaſt hand in that Book; for the late Parliament called a company of ſelect Gentlemen together, to conſider the abuſes and cor<g ref="char:EOLhyphen"/>ruptions of the Law. Theſe Gentlemen, after long and patient debate, found the reformation of a great many other things ve<g ref="char:EOLhyphen"/>ry needful, and according to the directions of the Parliament, drew up ſeveral means of redreſs, which were entered into a Book, and preſented ready for debate, and what neceſſity there was for taking away ſome corruptions of the Law, not the Law it ſelf, is a thing ſo viſible that it needs not be inſiſt<g ref="char:EOLhyphen"/>ed on.</p>
+            <p>For the <hi>Act of Marriages</hi> which this man ſeems much to quarrel at, it would be known that marriage, being the means of the propagation of the people, and conſequently of the continuance and preſervation of Government, ought by all wiſe Statiſts to be lookd upon as the greateſt concernment of it, becauſe that it being a means of ſucceſſion, and the onely
+<pb n="11" facs="tcp:118588:7"/>direction of Inheritance, there depend ſo many formal circumſtances on it, and ſo many incon<g ref="char:EOLhyphen"/>veniences are prevented by a <hi>Publick Solemnizati<g ref="char:EOLhyphen"/>on</hi> thereof, as there is ſcarce in any other thing belonging to a Commonwealth. And that this ſhould be put into the hands of the <hi>Civil Magi<g ref="char:EOLhyphen"/>strate,</hi> whoſe power <hi>Circa Sacra,</hi> we ſhall not now meddle with, is neither ſo ſtrange nor ridi<g ref="char:EOLhyphen"/>culous, ſince the <hi>eſſence</hi> of marriage being pro<g ref="char:EOLhyphen"/>miſ'd, and that <hi>promiſe</hi> fit to be known and regi<g ref="char:EOLhyphen"/>ſtred in order to <hi>Legitimation,</hi> and prevention of <hi>ſtealths</hi> and carryings away, there cannot be any perſon fitter than the <hi>Civil Magiſtrate.</hi> And we ſhall leave it propoſed to the <hi>Divines,</hi> whether there be any thing in <hi>Scripture,</hi> or by direct con<g ref="char:EOLhyphen"/>ſequence from <hi>Scripture,</hi> that reſtrains the So<g ref="char:EOLhyphen"/>lemnization of <hi>Marriages</hi> to the <hi>Ministry,</hi> but that it is rather a deviſe ſet a foot by the <hi>Popes,</hi> to inrich their <hi>Clergy,</hi> at the time that <hi>Chriſtianity</hi> became to be clouded and infected with <hi>Superstition.</hi>
+            </p>
+            <p>
+               <hi>And further, the ſaid</hi> Cromwel <hi>hath by himſelf, and others, forced this mock-Parliament to take away the body of our Laws that hath been our Bulwark, and defence, and only weapons counted against abſolute<g ref="char:EOLhyphen"/>neſs, to the end and intent that thereby the Lords the People of</hi> England, <hi>may be ſubject to the will, pleaſures, and intended Tyranny of him the ſaid</hi> Cromwel; <hi>All which conſidered, we humbly pray, the Lords the peo<g ref="char:EOLhyphen"/>ple of</hi> England, <hi>that Justice may be had againſt this abominable Traytor and Enemy to God and Mankind,</hi> Oliver Cromwel.</p>
+            <p n="3">
+               <hi>Par.</hi> 3. This charge were a heavy one indeed
+<pb n="12" facs="tcp:118588:8"/>if it were true, but tis ſo monſtrouſly falſe, as there needs not much to be ſpoken unto it; for what benefit could the <hi>General</hi> make by <hi>alteration</hi> of the <hi>Lawes,</hi> ſince in every action every man wil propoſe to himſelf one thing or other? or where did he ever appear in any action or any debate tending this way? But to matter of fact; The lawes (which he calls our <hi>Bulwark</hi> and <hi>defence</hi>) are ſo far from being <hi>taken away,</hi> that the <hi>ſuperfluities</hi> and <hi>inconveniences,</hi> the tedious and <hi>vexatious</hi> pro<g ref="char:EOLhyphen"/>ceedings are only taken away, to as much preju<g ref="char:EOLhyphen"/>dice to the life of the Law it ſelf, as tis to purge a groſs body of its noxious and corrupt humours.</p>
+            <p>
+               <hi>And to the end that this may be effected, it is de<g ref="char:EOLhyphen"/>ſired, that upon the</hi> 16. <hi>of</hi> October 1653. <hi>being the next comming, that all the people of England would as one man, as well Masters Sons, as Servants, repair into every County Town, or ſome other convenient place within</hi> England <hi>and</hi> Wales, <hi>appear armed with ſuch weapons of war as with conveniency they can, then and there to elect and chooſe ſuch and ſo many perſons as the people of the reſpective Counties, Cities and Bo<g ref="char:EOLhyphen"/>roughs, wont to chuſe to repreſent them in Parliament.</hi>
+            </p>
+            <p>
+               <hi>And further we do hereby declare, that ſuch of the Army as ſhall join in this our ſhaking off this yoke, ſhall be received into the favor of the Lords the people of</hi> England, <hi>and be continued in their truſts of Armes; for our Encouragement, we know this of old ſince man was placed upon the earth, that the triumphing of the wicked is but ſhort, and the joy of the hypocrite but for a moment; for a long time their Tabernacle have only proſpered, though they be robbers, and ſuch as provoke
+<pb n="13" facs="tcp:118588:8"/>God, and that make the upright man the greatest ſuf<g ref="char:EOLhyphen"/>ferer, yet for all this the multitude of their lies ſhall not make all men hold their peace.</hi>
+            </p>
+            <p>The cloſe of this buſineſs ſhewes the aim of the writer of it, that is to ſay, a double ſedition, both of the <hi>People</hi> and <hi>Souldiery,</hi> ſo extravagant in the propoſition to the people, that it hath produced no other effect, than the remembrance of the bare propoſition of his folly; ſo fooliſh in that to the Souldiery, that it is not like to be entertained with any thing by them but laughter. For my part, to either of them, I have only this to ſay; That ſince it hath pleaſed the Lord to make his own arm bare, and to conduct us through all theſe changes and turnes of <hi>Providence,</hi> into this eſtate of <hi>Liberty</hi> wherein we now ſtand; it behooves us as men following the meek and gentle doctrine of <hi>Chriſt</hi> himſelf, not only to walk in <hi>humility</hi> and obedience to the <hi>preſent powers, who are of God,</hi> but alſo to be duly and ſincerely thankful to that hand which hath taken off from our necks that i<g ref="char:EOLhyphen"/>ron yoke of <hi>Monarchy.</hi> and put us into that con<g ref="char:EOLhyphen"/>dition of <hi>Liberty,</hi> which we and our poſterity, if we can but know our own happineſs, are likely, with Gods bleſſing, to enjoy.</p>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
